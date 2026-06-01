@@ -41,7 +41,6 @@
 | **full-stack-role** | https://github.com/DudnikovDaniil/full-stack-role | main |
 | **vector-role** | https://github.com/DudnikovDaniil/vector-role | v1.0.0, v1.1.0, v1.2.0 |
 | **lighthouse-role** | https://github.com/DudnikovDaniil/lighthouse-role | v1.0.0 |
-| **full-stack-role** | https://github.com/DudnikovDaniil/full-stack-role | main |
 | **ansible-playbook** | https://github.com/DudnikovDaniil/ansible-playbook | main |
 
 ---
