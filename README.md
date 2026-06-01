@@ -91,21 +91,39 @@
 
 ### Основная часть
 
-| № | Скриншот | Описание |
-|---|----------|----------|
-| 1 | ![molecule-test-full-success](images/molecule-test-full-success.png) | Полный прогон molecule test |
-| 2 | ![verify-success](images/verify-success.png) | Успешная верификация |
-| 3 | ![idempotence-success](images/idempotence-success.png) | Тест идемпотентности |
-| 4 | ![github-tags](images/github-tags.png) | Теги v1.0.0, v1.1.0, v1.2.0 |
-| 5 | ![molecule-structure](images/molecule-structure.png) | Структура molecule/default |
-| 6 | ![versions](images/versions.png) | Версии инструментов |
+### 1. Полный прогон molecule test
+![molecule-test-full-success](images/molecule-test-full-success.png)
 
-###  Дополнительная часть (со звёздочкой )
 
-| № | Скриншот | Описание |
-|---|----------|----------|
-| 7 | ![lighthouse-molecule-test](images/lighthouse-molecule-test.png) | Тест lighthouse-role |
-| 8 | ![full-stack-molecule-test](images/full-stack-molecule-test.png) | Тест полного стека |
+### 2. Успешная верификация
+![verify-success](images/verify-success.png)
+
+
+### 3. Тест идемпотентности
+![idempotence-success](images/idempotence-success.png)
+
+
+### 4. Теги в репозитории
+![github-tags](images/github-tags.png)
+
+
+### 5. Структура molecule/default
+![molecule-structure](images/molecule-structure.png)
+
+
+### 6. Версии инструментов
+![versions](images/versions.png)
+
+
+### Дополнительная часть (со звёздочкой)
+
+### 7. Тест lighthouse-role
+![lighthouse-molecule-test](images/lighthouse-molecule-test.png)
+
+
+### 8. Тест полного стека
+![full-stack-molecule-test](images/full-stack-molecule-test.png)
+
 
 ---
 
